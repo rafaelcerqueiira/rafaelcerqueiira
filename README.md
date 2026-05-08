@@ -1,14 +1,9 @@
 <!-- Cabeçalho animado -->
 <div align="center">
 
-
 ### `< estudante de programação />` &nbsp;·&nbsp; aprendendo um bit de cada vez 🧠
 
 </div>
-
----
-
-## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -18,13 +13,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafaelcerqueiira.rafaelcerqueiira)
 
 </div>
