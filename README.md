@@ -23,19 +23,7 @@
 
 ---
 
-## 📌 O que estou construindo
-
-```
-📂 Meus repositórios
- ├── 🧠 Logica-em-C      → projetos práticos de lógica em C puro
- └── 🖥️ Sistema-Cadastro → sistema de autenticação via terminal em C
-```
-
----
-
 <div align="center">
-
-*"Todo expert já foi um dia um iniciante."* 💡
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafaelcerqueiira.rafaelcerqueiira)
 
