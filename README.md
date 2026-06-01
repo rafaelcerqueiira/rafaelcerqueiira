@@ -1,6 +1,6 @@
 ### Rafael Cerqueira
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento de software. Atualmente construindo uma base sólida em lógica de programação, estruturas de dados e boas práticas de código.
+Cursando Análise e Desenvolvimento de Sistemas.
 
 ---
 
