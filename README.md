@@ -1,5 +1,5 @@
 ### Rafael Cerqueira
-<sub> cursando analise e desenvolvimento de sistemass <sub>
+<sub>Graduando em Análise e Desenvolvimento de Sistemas <sub>
 
 ---
 **Tecnologias e Ferramentas**
