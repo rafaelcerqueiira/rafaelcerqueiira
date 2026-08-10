@@ -1,5 +1,5 @@
 ### Rafael Cerqueira
-<sub>Graduando em Análise e Desenvolvimento de Sistemas <sub>
+<sub>🧑🏻‍💻 Graduando em Análise e Desenvolvimento de Sistemas <sub>
 
 ---
 **Tecnologias e Ferramentas**
